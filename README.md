@@ -1,7 +1,7 @@
 <img src="https://i.imgur.com/2y0Lyzy.png" height="50">
 
 # SEI Daily Code Challenges
-
+- Franco Torres
 ## Intro
 
 During your 12 weeks in SEI, your instructors will be helping you learn tons of coding knowledge and skills using a proven approach where each lesson typically includes a mixture of:
