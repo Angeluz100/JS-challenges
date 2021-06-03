@@ -85,7 +85,13 @@ sumNumbers([]) //=> 0
 -----------------------------------------------------------------*/
 // Your solution for 03-sumNumbers here:
 
-
+function sumNumbers(arr) {
+  let totalNum = 0;
+  for ( let i = 0; i < arr.length; i++) {
+    totalNum += arr[i]
+  }
+  return totalNum
+}
 
 
 
@@ -108,6 +114,14 @@ add(7,-12) //=> -5
 -----------------------------------------------------------------*/
 // Your solution for 04-addList here:
 
+function addList() {
+  console.log (arguments)
+  let sum = 0;
+  for ( let i = 0; i < arguments.length; i++) {
+    sum += arguments[i]
+  }
+  return sum
+}
 
 
 
